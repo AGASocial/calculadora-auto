@@ -183,7 +183,7 @@ const CalculadoraAuto = () => {
   };
 
   return (
-    <div className="min-h-screen w-full bg-[#242424] text-white">
+    <div className="w-full bg-[#242424] text-white">
       <div className="w-full">
         <div className="bg-[#242424]">
           {/* Header */}
